@@ -1,159 +1,159 @@
-PARTNERID,PARTNERIDDESC,PARTNERNAME,SAPPORTID,SAPPORTDESC,PORTTYPE
-45005922010003,ACTEBISDE,ACTEBISDE,B2B65RS2,SAP RS2 environment,SendPort
-321147175T,Insight Ordering (FR),Insight Ordering (FR),B2B65RS2,SAP RS2 environment,SendPort
-1276798,D/H,D/H,B2B65RS2,SAP RS2,SendPort
-400592201003,ACTEBIS GERMANY,ACTEBIS GERMANY,B2B65RS2,SAP RS2 environment,SendPort
-0987654321,DUNS,Business Validation Acc,B2B65RS2,SAP RS2,SendPort
-366439557,Softkey,ZAO Softkey,B2B65RS2,SAP RS2 Environment,SendPort
-ALSO-DE-TEST,ALSO Germany Orders,ALSO Germany Orders,B2B65RS2,SAP RS2 Environment,SendPort
-IMTESTNZ,Ingram New Zealand,Ingram New Zealand,B2B65RS2,SAP RS2 environment,SendPort
-7300009015641,ATEA SVERIGE AB,ATEA SVERIGE AB,B2B65RS2,SAP RS2 environment,SendPort
-IMGMYT,Ingram Micro Malaysia,Ingram Micro Malaysia,B2B65RS2,SAP RS2 environment,SendPort
-6309246701AUT,INSIGHT ENTERPRISES AUSTRALIA,INSIGHT ENTERPRISES AUSTRALIA,B2B65RS2,SAP RS2 environment,SendPort
-5052601001066,CIVICA SERVICES LIMITED,CIVICA SERVICES LIMITED,B2B65RS2,SAP RS2 environment,SendPort
-303771299T,Insight Austria (AT),Insight Austria (AT),B2B65RS2,SAP RS2 environment,SendPort
-370500600T,Insight Belgium (BE),Insight Belgium (BE),B2B65RS2,SAP RS2 environment,SendPort
-559404608T,Insight Sweden (SE),Insight Sweden (SE),B2B65RS2,SAP RS2 environment,SendPort
-480913982T,Insight Switzerland (CH),Insight Switzerland (CH),B2B65RS2,SAP RS2 environment,SendPort
-338323439T,Insight Italy (IT),Insight Italy (IT),B2B65RS2,SAP RS2 environment,SendPort
-460302800T,Insight Spain (ES),Insight Spain (ES),B2B65RS2,SAP RS2 environment,SendPort
-00746820356,PICO SRL,PICO SRL,B2B65RS2,SAP RS2 environment,SendPort
-003709986398,GNT Finland,GNT Finland,B2B65RS2,SAP RS2 environment,SendPort
-9328162000012,Express Data ( Australia ),Express Data ( Australia ),B2B65RS2,SAP RS2 environment,SendPort
-CARAHSOFT,CARAHSOFT,CARAHSOFT,B2B65RS2,SAP RS2 environment,SendPort
-776147852T,Insight France (FR),Insight France (FR),B2B65RS2,SAP RS2 environment,SendPort
-DRIVPHOENIXT,DIGITAL RIVER EDUCATION SERVICES,DIGITAL RIVER EDUCATION SERVICES,B2B65RS2,SAP RS2 environment,SendPort
-28148014336,BILKOM BILISIM HIZMETLERI A.S,BILKOM BILISIM HIZMETLERI A.S,B2B65RS2,SAP RS2 environment,SendPort
-6123410000CN,office depot,office depot,B2B65RS2,DEV RS2,SendPort
-SNXVNDAS2,SYNNEX US,SYNNEX US,B2B65RS2,SAP RS2 Environment,SendPort
-6023333000CAN,Insight CANADA,Insight CANADA,B2B65RS2,SAP RS2 environment,SendPort
-CDWTESTQA,CDW CANADA,CDW CANADA,B2B65RS2,SAP RS2 environment,SendPort
-6430044119996,F9 Distribution OY,F9 Distribution OY,B2B65RS2,SAP RS2 environment,SendPort
-a0462274090test,Modus Media Japan,Modus Media Japan,B2B65RS2,EDI RS2 environment,SendPort
-IMTESTAU,Ingram AU,Ingram AU,B2B65RS2,RS2,SendPort
-6034232211TST,PC Connection,PC Connection,B2B65RS2,B2B RS2 Environment,SendPort
-INGRAMMICROIN,TECH PACIFIC INDIA,TECH PACIFIC INDIA,B2B65RS2,SAP RS2,SendPort
-4005922020002,Actebis France,Actebis France,B2B65RS2,SAP RS2 environment,SendPort
-050383223SM,Softmart,Softmart,B2B65RS2,SAP RS2 environment,SendPort
-3103375200T,EN POINTE,EN POINTE,B2B65RS2,SAP RS2 environment,SendPort
-075495903V,Compucom,Compucom,B2B65RS2,SAP RS2 environment,SendPort
-23327588,DOUGLAS STEWART (CLP),DOUGLAS STEWART (CLP),B2B65RS2,SAP RS2 Environment,SendPort
-CDWTEST,CDW TEST ID,CDW,B2B65RS2,SAP RS2,SendPort
-8286586293Q,Sonopress LLC Russia,Sonopress LLC Russia,B2B65RS2,SAP RS2,SendPort
-ARVATODIGITAL,Arvato Distribution GMBH,Arvato Distribution GMBH,B2B65RS2,B2B RS2 Environment,SendPort
-PCW033TEST,PC-WARE France,PC-WARE France,B2B65RS2,SAP RS2 Environment,SendPort
-SoftwareOne_de,SOFTWARE ONE,SOFTWARE ONE,B2B65RS2,SAP RS2 environment,SendPort
-SoftwareOne,SoftwareOne,SoftwareOne,B2B65RS2,SAP RS2 Environment,SendPort
-658728181,I M AUSTRALIA (TLP),I M AUSTRALIA (TLP),B2B65RS2,SAP RS2 environment,SendPort
-102096559GSCT,Adobe ID,Adobe ID,SAPRS2,RS2,ReceivePort
-ALSO-ABC-TEST-1,ALSO Germany Test,ALSO Germany Test,B2B65RS2,SAP RS2,SendPort
-DIGRIVER3,Digital River Emea,Digital River Emea,B2B65RS2,SAP RS2 environment,SendPort
-FR DSM ATLAS,Actebis Out,Actebis Out,B2B65RS2,B2B RS2 Environment,SendPort
-6309246701T,INSIGHT DIRECT USA,INSIGHT DIRECT USA,B2B65RS2,SAP RS2 Environment,SendPort
-TECHDATA,Tech Data Europe,Tech Data Europe,B2B65RS2,,SendPort
-8014318158TST,Modus Utah,Modus Utah,EDIPRD003,EDI RS2 environment,SendPort
-8014318160TST,Modus Direct,Modus Direct,B2B65RS2,EDI RS2 environment,SendPort
-CANCOM,Cam Com Deutschland GMBH,Cam Com Deutschland GMBH,B2B65RS2,SAP PRD Environment,SendPort
-704901818TEST,Uchida Spectrum Japan,Uchida Spectrum Japan,B2B65RS2,SAP RS2 environment,SendPort
-PC-WAREDENMARKAS,PC-WARE  (Denmark),PC-WARE  (Denmark),B2B65RS2,SAP RS2 Environment,SendPort
-7898995002627,Officer Distribuidora De Produtos,Officer Distribuidora De Produtos,B2B65RS2,SAP RS2 environment,SendPort
-5013546096159,JANSON COMPUTERS PLC,JANSON COMPUTERS PLC,B2B65RS2,SAP RS2 environment,SendPort
-007911209,D & H Distributors,D & H Distributors,B2B65RS2,SAP RS2 environment,SendPort
-023327588,DouglasStewart,DOUGLAS STEWART (TLP),B2B65RS2,SAP RS2 environment,SendPort
-004919486CH,Ingram Switzerland PRD ID,,EDIPRD003,SAP PRD Environment/n,SendPort
-491512121,Tech Data France,,EDIPRD003,SAP PRD Environment/n,SendPort
-5027757000001,GEM UK ID,,EDIPRD003,SAP PRD Environment/n,SendPort
-004919486BE,Ingram Belgium,Ingram Belgium,B2B65RS2,SAP RS2 environment,SendPort
-004919486DE,Ingram Germany,Ingram Germany,B2B65RS2,SAP PRD Environment,SendPort
-004919486DK,Ingram Denmark,Ingram Denmark,B2B65RS2,SAP PRD Environment,SendPort
-004919486ES,Ingram Spain,Ingram Spain,B2B65RS2,SAP PRD Environment,SendPort
-004919486FI,Ingram Finland,Ingram Finland,B2B65RS2,SAP PRD Environment,SendPort
-004919486FR,Ingram France,Ingram France,B2B65RS2,SAP PRD environment,SendPort
-004919486IT,Ingram Italy,Ingram Italy,B2B65RS2,SAP PRD Environment,SendPort
-004919486SB,Ingram Sweden,Ingram Sweden,B2B65RS2,SAP PRD Environment,SendPort
-004919486UK,Ingram UK,Ingram UK,B2B65RS2,SAP PRD environment,SendPort
-01657240121,Opengate,,EDIPRD003,SAP PRD environment/n,SendPort
-01657240121test,Opengate,,EDISQA003,SAP Test environment/n,SendPort
-105093200002,Daiwabo,Daiwabo,B2B65RS2,EDI RS2 environment,SendPort
-168201022,Metrologie Id,,EDIPRD003,SAP PRD Environment/n,SendPort
-5013546167736,Computers Unlimited,Computers Unlimited,B2B65RS2,SAP RS2 environment,SendPort
-5013546096159t,Computers Unlimited Test ID,,EDISQA003,SAP test environment/n,SendPort
-690651989,Softbank,Softbank,B2B65RS2,SAP RS2 Environment,SendPort
-690651989TEST,Softbank TEST,,EDISQA003,SAP Test Environment/n,SendPort
-C2000VM,C2000 PRD ID,,EDIPRD003,SAP PRD environment/n,SendPort
-C2000VT,Tech Data Great Britain,Tech Data Great Britain,B2B65RS2,SAP Test Environment,SendPort
-SESCR001,Scribona PRD ID,,EDIPRD003,SAP PRD environment/n,SendPort
-SESCR001t,Scribona Test ID,,EDISQA003,SAP test environment/n,SendPort
-05091320159,Esprinet,,B2B65RS2,SAP RS2,SendPort
-7331206000000SE,Scribona PRD,,EDIPRD003,SAP PRD Environment/n,SendPort
-PCW049TEST,PC Ware Germany,PC Ware Germany,B2B65RS2,SAP RS2 Environment,SendPort
-HIS-MS,ASAP France,ASAP France,B2B65RS2,SAP PRD Environment,SendPort
-64211701TEST,CCP Software AG Gmbh,CCP Software AG Gmbh,B2B65RS2,SAP RS2 environment,SendPort
-925485US00,Wal-Mart ID,Wal-Mart,B2B65RS2,EDI RS2 environment,SendPort
-102096559TEST,Adobe ID,Adobe Corp,B2B65RS2,RS2 Recipient Port,ReceivePort
-102096559PROD,Adobe ID,,SAPPRD,PRD Recipient Port,ReceivePort
-JDGTEST,EDI ID,JVC KENNESAW,B2B65RS2,SAP ID,SendPort
-102276177NAV,Navarre Corporation,,B2B65RS2,EDI RS2 environment,SendPort
-7172557825,D,,B2B65RS2,EDI RS2 environment,SendPort
-0819405530A10,Tech Data North America,Techdate NA,B2B65RS2,EDI RS2 environment,SendPort
-004919486CA,Ingram Canada Prod ID,Ingram Canada,B2B65RS2,EDI RS2 environment,SendPort
-004919486TEST,Ingram US Test ID,Ingram US,B2B65RS2,EDI RS2 environment,SendPort
-004919486US,Ingram US Prod ID,Ingram US,B2B65RS2,EDI RS2 environment,SendPort
-023327588T,Douglas Stewart (T is for temp only),Douglas Stewart,B2B65RS2,EDI RS2 environment,SendPort
-038181483CAN,Merisel Canada DEV ID,Merisel Canada,B2B65RS2,EDI RS2 environment,SendPort
-038181483CANt,Merisel Canada Test ID,Merisel Canada,B2B65RS2,EDI RS2 environment,SendPort
-038181483GEP,Merisel US DEV ID,Merisel,B2B65RS2,EDI RS2 environment,SendPort
-038181483MER,Merisel US Test ID,Merisel,B2B65RS2,EDI RS2 environment,SendPort
-0819405530010,Tech Data DEV ID,Tech Data,B2B65RS2,EDI RS2 environment,SendPort
-0819405531010,Tech Data Test ID,Tech Data,B2B65RS2,EDI RS2 environment,SendPort
-3034156374,Access Graphics DEV ID,Access Graphics,B2B65RS2,EDI RS2 environment,SendPort
-3034156374T,Access Graphics,Access Graphics,B2B65RS2,EDI RS2environment,SendPort
-5198372444,EMJ test ID,EMJ,B2B65RS2,EDI RS2 environment,SendPort
-CK01427,Pinacor DEV ID,Pinacor,B2B65RS2,EDI RS2 environment,SendPort
-CK01889,Pinacor - TEST,Pinacor,B2B65RS2,EDI RS2 environment,SendPort
-CWAVETEST001,Computerwave Test ID,Computerwave Japan,B2B65RS2,EDI RS2 environment,SendPort
-SYNVENCAN,Synnex DEV ID,Synnex,B2B65RS2,EDI RS2 environment,SendPort
-SYNVENCANt,Synnex Test ID,Synnex,B2B65RS2,EDI RS2 environment,SendPort
-107627952,CDW Prod ID,CDW,B2B65RS2,EDI RS2 environment,SendPort
-05038223SM,Softmart Prod ID,Softmart,B2B65RS2,EDI RS2 environment,SendPort
-SHI01,Software House Intl Prod ID,Software House International,B2B65RS2,EDI RS2 environment,SendPort
-121482657,ASAP,ASAP,B2B65RS2,EDI RS2 environment,SendPort
-102595865X,Software Spectrum APAC,Software Spectrum APAC,B2B65RS2,SAP RS2,SendPort
-4165889000T,Softchoice,,B2B65RS2,EDI RS2 environment,SendPort
-INGRAMMICRONZ,Ingram NZ,Ingram NZ,B2B65RS2,SAP PRD Environment,SendPort
-9377778997155,Edsoft,Edsoft,B2B65RS2,EDI RS2 environment,SendPort
-7036313333TEST,GTSI,,B2B65RS2,EDI RS2 environment,SendPort
-859260317X,Moredirect,Moredirect,B2B65RS2,SAP PRD Environment,SendPort
-8014318162TST,Modus Europe,Modus Europe,B2B65RS2,EDI RS2 environment,SendPort
-DIGRIVEREUR,Digital River Europe,Digital River Europe,B2B65RS2,SAP RS2 environment,SendPort
-CWAVEPROD001,Marubeni Infotec/ComputerWave,Marubeni Infotec/ComputerWave,B2B65RS2,SAP RS2 environment,SendPort
-BECHTLE,Bechtle,Bechtle,B2B65RS2,SAP RS2 environment,SendPort
-004919486CL,Ingram Chile,Ingram Chile,B2B65RS2,SAP RS2 environment,SendPort
-114315195DLFRT,Dell France,Dell France,B2B65RS2,SAP RS2 environment,SendPort
-004919486TEST10,Ingram Micro Hungary,Ingram Micro Hungary,B2B65RS2,SAP RS2 environment,SendPort
-PCW031TEST,PC-WARE Benelux,PC-WARE Benelux,B2B65RS2,SAP RS2 environment,SendPort
-ALSO-ABC-TEST,ALSO Switzerland Test,ALSO Switzerland Test,B2B65RS2,SAP RS2,SendPort
-004919486NL,Ingram Micro Netherlands,Ingram Micro Netherlands,B2B65RS2,SAP RS2 environment,SendPort
-094004801490485001,Computer Gross  (Test),Computer Gross  (Test),EDIPRD003,SAP PRD Environment,SendPort
-114315195DLWT,DELL GLOBAL,DELL GLOBAL,B2B65RS2,SAP RS2 environment,SendPort
-195590237T,"ZONES, INC.","ZONES, INC.",B2B65RS2,SAP RS2 environment,SendPort
-9012966999992,SCHOLASTIC AUSTRALIA PTY,SCHOLASTIC AUSTRALIA PTY,B2B65RS2,SAP RS2 environment,SendPort
-185122629OMX,OFFICE MAX,OFFICE MAX,EDIPRD003,OFFICE MAX,SendPort
-0600603000003,BEST BUY,BEST BUY,EDIPRD003,BEST BUY,SendPort
-015106482,Staples,Staples,B2B65RS2,Staples,SendPort
-482783446,SoftwareOne,SoftwareOne,B2B65RS2,SAP RS2 environment,SendPort
-IMTESTSG,Ingram Singapore Test,Ingram Singapore Test,B2B65RS2,SAP RS2 environment,SendPort
-217480115T,Insight UK,Insight UK,B2B65RS2,SAP RS2 environment,SendPort
-023327588E2XT,DOUGLAS STEWART,DOUGLAS STEWART,B2B65RS2,SAP RS2 environment,SendPort
-MONTRUTEST,Mont LLC,Mont LLC,B2B65RS2,SAP RS2 environment,SendPort
-6309246701SAT,Insight Singapore,Insight Singapore,B2B65RS2,SAP RS2 Environment,SendPort
-TRANSEUROPE,TRANS-EUROPE CONSULTING SERVICE,TRANS-EUROPE CONSULTING SERVICE,B2B65RS2,SAP RS2 Environment,SendPort
-VALUESYSTEMS,TTHE VALUE SYSTEMS CO. LTD,TTHE VALUE SYSTEMS CO. LTD,B2B65RS2,SAP RS2 environment,SendPort
-11151500TEST,Otsuka coporation,Otsuka coporation,B2B65RS2,sap rs2,SendPort
-DIGRIVER4,Digital River EMEA VIP,Digital RIver EMEA VIP,B2B65RS2,SAP RS2 Environment,SendPort
-6309246701HKT,Insight Hong Kong,Insight Hong Kong,B2B65RS2,SAP RS2 environment,SendPort
-3015220000100,Exertis France,Exertis France,B2B65RS2,SAP RS2 environment,SendPort
-346904543TEST,INTERCALL,INTERCALL,B2B65RS2,SAP RS2 Environment,SendPort
-DIGRIVER1,DR Connect NA,DR Connect NA,B2B65RS2,SAP RS2 Environment,SendPort
-DIGRIVER2,DR Connect EMEA,DR Connect EMEA,B2B65RS2,SAP RS2 environment,SendPort
-8697445990014,PENTA TEKNOLOJI,PENTA TEKNOLOJI,B2B65RS2,SAP RS2 Environment,SendPort
+"PARTNERID","PARTNERIDDESC","PARTNERNAME","SAPPORTID","SAPPORTDESC","PORTTYPE"
+"45005922010003","ACTEBISDE","ACTEBISDE","B2B65RS2","SAP RS2 environment","SendPort"
+"321147175T","Insight Ordering (FR)","Insight Ordering (FR)","B2B65RS2","SAP RS2 environment","SendPort"
+"1276798","D/H","D/H","B2B65RS2","SAP RS2","SendPort"
+"400592201003","ACTEBIS GERMANY","ACTEBIS GERMANY","B2B65RS2","SAP RS2 environment","SendPort"
+"0987654321","DUNS","Business Validation Acc","B2B65RS2","SAP RS2","SendPort"
+"366439557","Softkey","ZAO Softkey","B2B65RS2","SAP RS2 Environment","SendPort"
+"ALSO-DE-TEST","ALSO Germany Orders","ALSO Germany Orders","B2B65RS2","SAP RS2 Environment","SendPort"
+"IMTESTNZ","Ingram New Zealand","Ingram New Zealand","B2B65RS2","SAP RS2 environment","SendPort"
+"7300009015641","ATEA SVERIGE AB","ATEA SVERIGE AB","B2B65RS2","SAP RS2 environment","SendPort"
+"IMGMYT","Ingram Micro Malaysia","Ingram Micro Malaysia","B2B65RS2","SAP RS2 environment","SendPort"
+"6309246701AUT","INSIGHT ENTERPRISES AUSTRALIA","INSIGHT ENTERPRISES AUSTRALIA","B2B65RS2","SAP RS2 environment","SendPort"
+"5052601001066","CIVICA SERVICES LIMITED","CIVICA SERVICES LIMITED","B2B65RS2","SAP RS2 environment","SendPort"
+"303771299T","Insight Austria (AT)","Insight Austria (AT)","B2B65RS2","SAP RS2 environment","SendPort"
+"370500600T","Insight Belgium (BE)","Insight Belgium (BE)","B2B65RS2","SAP RS2 environment","SendPort"
+"559404608T","Insight Sweden (SE)","Insight Sweden (SE)","B2B65RS2","SAP RS2 environment","SendPort"
+"480913982T","Insight Switzerland (CH)","Insight Switzerland (CH)","B2B65RS2","SAP RS2 environment","SendPort"
+"338323439T","Insight Italy (IT)","Insight Italy (IT)","B2B65RS2","SAP RS2 environment","SendPort"
+"460302800T","Insight Spain (ES)","Insight Spain (ES)","B2B65RS2","SAP RS2 environment","SendPort"
+"00746820356","PICO SRL","PICO SRL","B2B65RS2","SAP RS2 environment","SendPort"
+"003709986398","GNT Finland","GNT Finland","B2B65RS2","SAP RS2 environment","SendPort"
+"9328162000012","Express Data ( Australia )","Express Data ( Australia )","B2B65RS2","SAP RS2 environment","SendPort"
+"CARAHSOFT","CARAHSOFT","CARAHSOFT","B2B65RS2","SAP RS2 environment","SendPort"
+"776147852T","Insight France (FR)","Insight France (FR)","B2B65RS2","SAP RS2 environment","SendPort"
+"DRIVPHOENIXT","DIGITAL RIVER EDUCATION SERVICES","DIGITAL RIVER EDUCATION SERVICES","B2B65RS2","SAP RS2 environment","SendPort"
+"28148014336","BILKOM BILISIM HIZMETLERI A.S","BILKOM BILISIM HIZMETLERI A.S","B2B65RS2","SAP RS2 environment","SendPort"
+"6123410000CN","office depot","office depot","B2B65RS2","DEV RS2","SendPort"
+"SNXVNDAS2","SYNNEX US","SYNNEX US","B2B65RS2","SAP RS2 Environment","SendPort"
+"6023333000CAN","Insight CANADA","Insight CANADA","B2B65RS2","SAP RS2 environment","SendPort"
+"CDWTESTQA","CDW CANADA","CDW CANADA","B2B65RS2","SAP RS2 environment","SendPort"
+"6430044119996","F9 Distribution OY","F9 Distribution OY","B2B65RS2","SAP RS2 environment","SendPort"
+"a0462274090test","Modus Media Japan","Modus Media Japan","B2B65RS2","EDI RS2 environment","SendPort"
+"IMTESTAU","Ingram AU","Ingram AU","B2B65RS2","RS2","SendPort"
+"6034232211TST","PC Connection","PC Connection","B2B65RS2","B2B RS2 Environment","SendPort"
+"INGRAMMICROIN","TECH PACIFIC INDIA","TECH PACIFIC INDIA","B2B65RS2","SAP RS2","SendPort"
+"4005922020002","Actebis France","Actebis France","B2B65RS2","SAP RS2 environment","SendPort"
+"050383223SM","Softmart","Softmart","B2B65RS2","SAP RS2 environment","SendPort"
+"3103375200T","EN POINTE","EN POINTE","B2B65RS2","SAP RS2 environment","SendPort"
+"075495903V","Compucom","Compucom","B2B65RS2","SAP RS2 environment","SendPort"
+"23327588","DOUGLAS STEWART (CLP)","DOUGLAS STEWART (CLP)","B2B65RS2","SAP RS2 Environment","SendPort"
+"CDWTEST","CDW TEST ID","CDW","B2B65RS2","SAP RS2","SendPort"
+"8286586293Q","Sonopress LLC Russia","Sonopress LLC Russia","B2B65RS2","SAP RS2","SendPort"
+"ARVATODIGITAL","Arvato Distribution GMBH","Arvato Distribution GMBH","B2B65RS2","B2B RS2 Environment","SendPort"
+"PCW033TEST","PC-WARE France","PC-WARE France","B2B65RS2","SAP RS2 Environment","SendPort"
+"SoftwareOne_de","SOFTWARE ONE","SOFTWARE ONE","B2B65RS2","SAP RS2 environment","SendPort"
+"SoftwareOne","SoftwareOne","SoftwareOne","B2B65RS2","SAP RS2 Environment","SendPort"
+"658728181","I M AUSTRALIA (TLP)","I M AUSTRALIA (TLP)","B2B65RS2","SAP RS2 environment","SendPort"
+"102096559GSCT","Adobe ID","Adobe ID","SAPRS2","RS2","ReceivePort"
+"ALSO-ABC-TEST-1","ALSO Germany Test","ALSO Germany Test","B2B65RS2","SAP RS2","SendPort"
+"DIGRIVER3","Digital River Emea","Digital River Emea","B2B65RS2","SAP RS2 environment","SendPort"
+"FR DSM ATLAS","Actebis Out","Actebis Out","B2B65RS2","B2B RS2 Environment","SendPort"
+"6309246701T","INSIGHT DIRECT USA","INSIGHT DIRECT USA","B2B65RS2","SAP RS2 Environment","SendPort"
+"TECHDATA","Tech Data Europe","Tech Data Europe","B2B65RS2","","SendPort"
+"8014318158TST","Modus Utah","Modus Utah","EDIPRD003","EDI RS2 environment","SendPort"
+"8014318160TST","Modus Direct","Modus Direct","B2B65RS2","EDI RS2 environment","SendPort"
+"CANCOM","Cam Com Deutschland GMBH","Cam Com Deutschland GMBH","B2B65RS2","SAP PRD Environment","SendPort"
+"704901818TEST","Uchida Spectrum Japan","Uchida Spectrum Japan","B2B65RS2","SAP RS2 environment","SendPort"
+"PC-WAREDENMARKAS","PC-WARE  (Denmark)","PC-WARE  (Denmark)","B2B65RS2","SAP RS2 Environment","SendPort"
+"7898995002627","Officer Distribuidora De Produtos","Officer Distribuidora De Produtos","B2B65RS2","SAP RS2 environment","SendPort"
+"5013546096159","JANSON COMPUTERS PLC","JANSON COMPUTERS PLC","B2B65RS2","SAP RS2 environment","SendPort"
+"007911209","D & H Distributors","D & H Distributors","B2B65RS2","SAP RS2 environment","SendPort"
+"023327588","DouglasStewart","DOUGLAS STEWART (TLP)","B2B65RS2","SAP RS2 environment","SendPort"
+"004919486CH","Ingram Switzerland PRD ID","","EDIPRD003","SAP PRD Environment/n","SendPort"
+"491512121","Tech Data France","","EDIPRD003","SAP PRD Environment/n","SendPort"
+"5027757000001","GEM UK ID","","EDIPRD003","SAP PRD Environment/n","SendPort"
+"004919486BE","Ingram Belgium","Ingram Belgium","B2B65RS2","SAP RS2 environment","SendPort"
+"004919486DE","Ingram Germany","Ingram Germany","B2B65RS2","SAP PRD Environment","SendPort"
+"004919486DK","Ingram Denmark","Ingram Denmark","B2B65RS2","SAP PRD Environment","SendPort"
+"004919486ES","Ingram Spain","Ingram Spain","B2B65RS2","SAP PRD Environment","SendPort"
+"004919486FI","Ingram Finland","Ingram Finland","B2B65RS2","SAP PRD Environment","SendPort"
+"004919486FR","Ingram France","Ingram France","B2B65RS2","SAP PRD environment","SendPort"
+"004919486IT","Ingram Italy","Ingram Italy","B2B65RS2","SAP PRD Environment","SendPort"
+"004919486SB","Ingram Sweden","Ingram Sweden","B2B65RS2","SAP PRD Environment","SendPort"
+"004919486UK","Ingram UK","Ingram UK","B2B65RS2","SAP PRD environment","SendPort"
+"01657240121","Opengate","","EDIPRD003","SAP PRD environment/n","SendPort"
+"01657240121test","Opengate","","EDISQA003","SAP Test environment/n","SendPort"
+"105093200002","Daiwabo","Daiwabo","B2B65RS2","EDI RS2 environment","SendPort"
+"168201022","Metrologie Id","","EDIPRD003","SAP PRD Environment/n","SendPort"
+"5013546167736","Computers Unlimited","Computers Unlimited","B2B65RS2","SAP RS2 environment","SendPort"
+"5013546096159t","Computers Unlimited Test ID","","EDISQA003","SAP test environment/n","SendPort"
+"690651989","Softbank","Softbank","B2B65RS2","SAP RS2 Environment","SendPort"
+"690651989TEST","Softbank TEST","","EDISQA003","SAP Test Environment/n","SendPort"
+"C2000VM","C2000 PRD ID","","EDIPRD003","SAP PRD environment/n","SendPort"
+"C2000VT","Tech Data Great Britain","Tech Data Great Britain","B2B65RS2","SAP Test Environment","SendPort"
+"SESCR001","Scribona PRD ID","","EDIPRD003","SAP PRD environment/n","SendPort"
+"SESCR001t","Scribona Test ID","","EDISQA003","SAP test environment/n","SendPort"
+"05091320159","Esprinet","","B2B65RS2","SAP RS2","SendPort"
+"7331206000000SE","Scribona PRD","","EDIPRD003","SAP PRD Environment/n","SendPort"
+"PCW049TEST","PC Ware Germany","PC Ware Germany","B2B65RS2","SAP RS2 Environment","SendPort"
+"HIS-MS","ASAP France","ASAP France","B2B65RS2","SAP PRD Environment","SendPort"
+"64211701TEST","CCP Software AG Gmbh","CCP Software AG Gmbh","B2B65RS2","SAP RS2 environment","SendPort"
+"925485US00","Wal-Mart ID","Wal-Mart","B2B65RS2","EDI RS2 environment","SendPort"
+"102096559TEST","Adobe ID","Adobe Corp","B2B65RS2","RS2 Recipient Port","ReceivePort"
+"102096559PROD","Adobe ID","","SAPPRD","PRD Recipient Port","ReceivePort"
+"JDGTEST","EDI ID","JVC KENNESAW","B2B65RS2","SAP ID","SendPort"
+"102276177NAV","Navarre Corporation","","B2B65RS2","EDI RS2 environment","SendPort"
+"7172557825","D","","B2B65RS2","EDI RS2 environment","SendPort"
+"0819405530A10","Tech Data North America","Techdate NA","B2B65RS2","EDI RS2 environment","SendPort"
+"004919486CA","Ingram Canada Prod ID","Ingram Canada","B2B65RS2","EDI RS2 environment","SendPort"
+"004919486TEST","Ingram US Test ID","Ingram US","B2B65RS2","EDI RS2 environment","SendPort"
+"004919486US","Ingram US Prod ID","Ingram US","B2B65RS2","EDI RS2 environment","SendPort"
+"023327588T","Douglas Stewart (T is for temp only)","Douglas Stewart","B2B65RS2","EDI RS2 environment","SendPort"
+"038181483CAN","Merisel Canada DEV ID","Merisel Canada","B2B65RS2","EDI RS2 environment","SendPort"
+"038181483CANt","Merisel Canada Test ID","Merisel Canada","B2B65RS2","EDI RS2 environment","SendPort"
+"038181483GEP","Merisel US DEV ID","Merisel","B2B65RS2","EDI RS2 environment","SendPort"
+"038181483MER","Merisel US Test ID","Merisel","B2B65RS2","EDI RS2 environment","SendPort"
+"0819405530010","Tech Data DEV ID","Tech Data","B2B65RS2","EDI RS2 environment","SendPort"
+"0819405531010","Tech Data Test ID","Tech Data","B2B65RS2","EDI RS2 environment","SendPort"
+"3034156374","Access Graphics DEV ID","Access Graphics","B2B65RS2","EDI RS2 environment","SendPort"
+"3034156374T","Access Graphics","Access Graphics","B2B65RS2","EDI RS2environment","SendPort"
+"5198372444","EMJ test ID","EMJ","B2B65RS2","EDI RS2 environment","SendPort"
+"CK01427","Pinacor DEV ID","Pinacor","B2B65RS2","EDI RS2 environment","SendPort"
+"CK01889","Pinacor - TEST","Pinacor","B2B65RS2","EDI RS2 environment","SendPort"
+"CWAVETEST001","Computerwave Test ID","Computerwave Japan","B2B65RS2","EDI RS2 environment","SendPort"
+"SYNVENCAN","Synnex DEV ID","Synnex","B2B65RS2","EDI RS2 environment","SendPort"
+"SYNVENCANt","Synnex Test ID","Synnex","B2B65RS2","EDI RS2 environment","SendPort"
+"107627952","CDW Prod ID","CDW","B2B65RS2","EDI RS2 environment","SendPort"
+"05038223SM","Softmart Prod ID","Softmart","B2B65RS2","EDI RS2 environment","SendPort"
+"SHI01","Software House Intl Prod ID","Software House International","B2B65RS2","EDI RS2 environment","SendPort"
+"121482657","ASAP","ASAP","B2B65RS2","EDI RS2 environment","SendPort"
+"102595865X","Software Spectrum APAC","Software Spectrum APAC","B2B65RS2","SAP RS2","SendPort"
+"4165889000T","Softchoice","","B2B65RS2","EDI RS2 environment","SendPort"
+"INGRAMMICRONZ","Ingram NZ","Ingram NZ","B2B65RS2","SAP PRD Environment","SendPort"
+"9377778997155","Edsoft","Edsoft","B2B65RS2","EDI RS2 environment","SendPort"
+"7036313333TEST","GTSI","","B2B65RS2","EDI RS2 environment","SendPort"
+"859260317X","Moredirect","Moredirect","B2B65RS2","SAP PRD Environment","SendPort"
+"8014318162TST","Modus Europe","Modus Europe","B2B65RS2","EDI RS2 environment","SendPort"
+"DIGRIVEREUR","Digital River Europe","Digital River Europe","B2B65RS2","SAP RS2 environment","SendPort"
+"CWAVEPROD001","Marubeni Infotec/ComputerWave","Marubeni Infotec/ComputerWave","B2B65RS2","SAP RS2 environment","SendPort"
+"BECHTLE","Bechtle","Bechtle","B2B65RS2","SAP RS2 environment","SendPort"
+"004919486CL","Ingram Chile","Ingram Chile","B2B65RS2","SAP RS2 environment","SendPort"
+"114315195DLFRT","Dell France","Dell France","B2B65RS2","SAP RS2 environment","SendPort"
+"004919486TEST10","Ingram Micro Hungary","Ingram Micro Hungary","B2B65RS2","SAP RS2 environment","SendPort"
+"PCW031TEST","PC-WARE Benelux","PC-WARE Benelux","B2B65RS2","SAP RS2 environment","SendPort"
+"ALSO-ABC-TEST","ALSO Switzerland Test","ALSO Switzerland Test","B2B65RS2","SAP RS2","SendPort"
+"004919486NL","Ingram Micro Netherlands","Ingram Micro Netherlands","B2B65RS2","SAP RS2 environment","SendPort"
+"094004801490485001","Computer Gross  (Test)","Computer Gross  (Test)","EDIPRD003","SAP PRD Environment","SendPort"
+"114315195DLWT","DELL GLOBAL","DELL GLOBAL","B2B65RS2","SAP RS2 environment","SendPort"
+"195590237T","ZONES, INC.","ZONES, INC.","B2B65RS2","SAP RS2 environment","SendPort"
+"9012966999992","SCHOLASTIC AUSTRALIA PTY","SCHOLASTIC AUSTRALIA PTY","B2B65RS2","SAP RS2 environment","SendPort"
+"185122629OMX","OFFICE MAX","OFFICE MAX","EDIPRD003","OFFICE MAX","SendPort"
+"0600603000003","BEST BUY","BEST BUY","EDIPRD003","BEST BUY","SendPort"
+"015106482","Staples","Staples","B2B65RS2","Staples","SendPort"
+"482783446","SoftwareOne","SoftwareOne","B2B65RS2","SAP RS2 environment","SendPort"
+"IMTESTSG","Ingram Singapore Test","Ingram Singapore Test","B2B65RS2","SAP RS2 environment","SendPort"
+"217480115T","Insight UK","Insight UK","B2B65RS2","SAP RS2 environment","SendPort"
+"023327588E2XT","DOUGLAS STEWART","DOUGLAS STEWART","B2B65RS2","SAP RS2 environment","SendPort"
+"MONTRUTEST","Mont LLC","Mont LLC","B2B65RS2","SAP RS2 environment","SendPort"
+"6309246701SAT","Insight Singapore","Insight Singapore","B2B65RS2","SAP RS2 Environment","SendPort"
+"TRANSEUROPE","TRANS-EUROPE CONSULTING SERVICE","TRANS-EUROPE CONSULTING SERVICE","B2B65RS2","SAP RS2 Environment","SendPort"
+"VALUESYSTEMS","TTHE VALUE SYSTEMS CO. LTD","TTHE VALUE SYSTEMS CO. LTD","B2B65RS2","SAP RS2 environment","SendPort"
+"11151500TEST","Otsuka coporation","Otsuka coporation","B2B65RS2","sap rs2","SendPort"
+"DIGRIVER4","Digital River EMEA VIP","Digital RIver EMEA VIP","B2B65RS2","SAP RS2 Environment","SendPort"
+"6309246701HKT","Insight Hong Kong","Insight Hong Kong","B2B65RS2","SAP RS2 environment","SendPort"
+"3015220000100","Exertis France","Exertis France","B2B65RS2","SAP RS2 environment","SendPort"
+"346904543TEST","INTERCALL","INTERCALL","B2B65RS2","SAP RS2 Environment","SendPort"
+"DIGRIVER1","DR Connect NA","DR Connect NA","B2B65RS2","SAP RS2 Environment","SendPort"
+"DIGRIVER2","DR Connect EMEA","DR Connect EMEA","B2B65RS2","SAP RS2 environment","SendPort"
+"8697445990014","PENTA TEKNOLOJI","PENTA TEKNOLOJI","B2B65RS2","SAP RS2 Environment","SendPort"
