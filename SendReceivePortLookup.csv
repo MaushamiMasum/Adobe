@@ -1,6 +1,6 @@
 "PARTNERID","PARTNERIDDESC","PARTNERNAME","SAPPORTID","SAPPORTDESC","PORTTYPE"
 "45005922010003","ACTEBISDE","ACTEBISDE","B2B65RS2","SAP RS2 environment","SendPort"
-"321147175T","Insight Ordering (FR)","Insight Ordering (FR)","B2B65RS2","SAP RS2 environment","SendPort"
+"321147175P","Insight Ordering (FR)","Insight Ordering (FR)","B2B65RS2","SAP RS2 environment","SendPort"
 "1276798","D/H","D/H","B2B65RS2","SAP RS2","SendPort"
 "4005922010039","ACTEBIS GERMANY","ACTEBIS GERMANY","B2B65RS2","SAP RS2 environment","SendPort"
 "0987654321","DUNS","Business Validation Acc","B2B65RS2","SAP RS2","SendPort"
